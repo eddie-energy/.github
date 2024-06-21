@@ -22,5 +22,9 @@ Describe what you expected to happen.
 **Screenshots**
 If applicable, add screenshots to help explain the problem.
 
+**Data Needs Configuration**
+Screenshot or JSON of data need if relevant for bug.
+
 **Additional context**
 Add any other context about the problem.
+
