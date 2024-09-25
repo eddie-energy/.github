@@ -31,6 +31,7 @@ For example, not requesting gas metered data for data need that specifies electr
 - [ ] Allow termination of permission requests
   - [ ] Remove credentials if possible
   - [ ] Terminate on the permission administrators side if possible
+- [ ] Time out stale permission requests
 
 ## Blockers
 
