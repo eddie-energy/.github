@@ -19,6 +19,12 @@ Describe the steps to reproduce the behavior:
 **Expected behavior**
 Describe what you expected to happen.
 
+**Logs**
+
+```
+Include logs here, if applicable
+```
+
 **Screenshots**
 If applicable, add screenshots to help explain the problem.
 
