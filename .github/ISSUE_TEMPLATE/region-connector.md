@@ -33,6 +33,7 @@ For example, not requesting gas metered data for data need that specifies electr
   - [ ] Terminate on the permission administrators side if possible
 - [ ] Time out stale permission requests
 - [ ] Implement health indicators for external APIs and services
+- [ ] Add E2E tests and configure secrets for GitHub action if applicable
 
 ## Blockers
 
