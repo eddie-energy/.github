@@ -34,6 +34,7 @@ For example, not requesting gas metered data for data need that specifies electr
 - [ ] Allow retransmission of validated historical data for a specific permission request
 - [ ] Time out stale permission requests
 - [ ] Implement health indicators for external APIs and services
+- [ ] Add E2E tests and configure secrets for GitHub action if applicable
 
 ## Blockers
 
